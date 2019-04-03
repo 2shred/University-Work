@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+main ()
+{
+  printf("Hey, I got this working!");
+  return 0;
+}
