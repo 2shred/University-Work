@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Rename the file to .c Zac!");
+  printf("Need to do the first commit");
   return 0;
 }
