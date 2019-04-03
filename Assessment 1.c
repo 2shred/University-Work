@@ -55,3 +55,4 @@ void encryption(char *baseText, int shift) //(Definition)
         printf("%s", baseText);
         return;
     }
+//This push is to test the commit
